@@ -21,7 +21,7 @@ This one is based on:
 
 ---
 
-## 1. 🪂 0fees - DEX (Swap & Bridge DEX / S-Tier)
+## 1. 🪂 etherby.xyz - S-tier
 
 **Category:** Design your own Crypto Bonus Boxes
 **Status:** Non-stop
