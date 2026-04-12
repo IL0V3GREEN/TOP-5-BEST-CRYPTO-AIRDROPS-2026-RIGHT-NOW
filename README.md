@@ -23,20 +23,12 @@ This one is based on:
 
 ## 1. 🪂 0fees - DEX (Swap & Bridge DEX / S-Tier)
 
-**Category:** Swap & Bridge DEX
-**Status:** Token partially distributed, MORE expected  
+**Category:** Design your own Crypto Bonus Boxes
+**Status:** Non-stop
 **Potential:** 🔥🔥🔥🔥🔥🔥
 
-📌 Why it's huge:
-- Simple OLD airdrops style
-- Easy to join 
-
-✅ What to do:
-- More swaps > more rewards
-- Use 0fees Swap & Bridge tokens
-- Click the button "Join our airdrop" and check your allocation
-
-## LINK: https://0fees.xyz
+## LINK: https://etherby.xyz - people create crypto gift boxes & share with others 
+WITHI ID: ce41cc28-070b-4cb4-9c91-d3d525d91f8f
 
 <img width="297" alt="image" src="https://github.com/user-attachments/assets/654d2aab-f24c-4dd3-b56b-98b7004f5916" />
 
